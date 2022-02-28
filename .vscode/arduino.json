@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "programmer": "arduino:usbasp",
+    "sketch": "arduino sample programs\\led-blink.ino"
+}
